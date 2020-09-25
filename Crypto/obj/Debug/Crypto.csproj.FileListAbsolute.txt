@@ -1,0 +1,23 @@
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Crypto.exe.config
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Crypto.exe.manifest
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Crypto.application
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Crypto.exe
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Crypto.pdb
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\WebApps\CryptoTool\Crypto\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.Login.resources
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.Tool.resources
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.csproj.GenerateResource.cache
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.exe.manifest
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.application
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.csproj.CopyComplete
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.exe
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.pdb
+C:\WebApps\CryptoTool\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+C:\Users\m33100\OneDrive - mcap.com\Documents\CECRA\Development\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\m33100\OneDrive - mcap.com\Documents\CECRA\Development\Crypto\obj\Debug\Crypto.exe
+C:\Users\m33100\OneDrive - mcap.com\Documents\CECRA\Development\Crypto\obj\Debug\Crypto.pdb
